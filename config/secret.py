@@ -1,0 +1,1 @@
+KEY = 'django-insecure-9b*9%9lw&vfqhx$t76!vrfpk(p!v0s0exrv&x71ot)hen+ml2t'
